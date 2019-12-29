@@ -9,4 +9,3 @@
 7. [Catch me!](https://github.com/arvindsastha/Catch-Me) [December 2015] </br>
 8. [Digital Measuring System](https://github.com/arvindsastha/Digital-Measuring-System) [Febraury 2016]</br>
 9. [Soccer Game Analysis](https://github.com/arvindsastha/Soccer-Game-Analysis) [March 2016]</br>
-10. [Bus Ticket Management System](https://github.com/arvindsastha/Bus-Ticket-Management-System) [April 2014]</br>
