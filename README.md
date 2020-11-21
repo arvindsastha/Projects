@@ -7,4 +7,3 @@
 5. [Load Balancing in Cloud Systems](https://github.com/arvindsastha/Load-Balancing-in-Cloud) [April 2017]</br>
 6. [Effective Email Subject Generation](https://github.com/arvindsastha/Effective-Email-Subject-Generation) [November 2019]</br>
 7. [Sense of Touch](https://github.com/arvindsastha/Sense-of-Touch) [December 2016]</br>
-8. [Platys](https://github.com/arvindsastha/platys-fl) [May 2020] </br>
